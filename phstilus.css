@@ -1,0 +1,54 @@
+﻿body {
+    font-size: 11pt;
+    margin-left: 10px;
+    padding: 0px;
+    background-image: url("bg.png");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: "Times New Roman", Times, serif;
+}
+
+p {
+    color: black;
+
+}
+
+hr {
+	
+}
+
+h1, h2 {
+	
+}
+
+h2 {
+	
+}
+
+#tartalom {
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: left;
+    width: 850px;
+    align-items: center;
+    border: none;
+}
+
+#nev{
+	font-size: 16px;
+	font-style:italic;
+}
+
+
+.kep {
+	
+	margin-left: 80%;
+    width: 20px;
+    height: 20px;
+}
+
+a:link {
+    color: ##008080;
+}
+
